@@ -1,4 +1,24 @@
 {
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [
+    "v",
+    "a",
+    "i",
+    "b",
+    "h",
+    "a",
+    "v"
+  ],
+  "license": "ISC",
+  "author": "vaibhav mishra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
   "dependencies": {
     "dotenv": "^17.4.2",
     "express": "^5.2.1"
